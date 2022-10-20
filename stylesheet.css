@@ -1,0 +1,40 @@
+body{
+    background-color: lavender;
+}
+#wrapper{
+    background-color: white;
+    font-family: cursive;
+    margin: auto;
+    color: black;
+    width: fit-content;
+    padding: 20px;
+    box-shadow: 2px;
+}
+
+h1{
+    text-align:justify;
+}
+
+.boxes{
+    width: 300px;
+    height: 30px;
+    border-radius: 5px;
+    border-color: magenta;
+    box-shadow:lightslategray 10px;
+}
+button{
+    background-color: lavender;
+    width: 300px;
+    height: 30px;
+    border-radius: 5px;
+    border-color: magenta;
+    position:unset;
+    box-shadow: 2px;
+}
+button:hover{
+    color: white;
+    background-color: magenta;
+}
+a, p{
+    text-align: center;
+}
